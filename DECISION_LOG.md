@@ -6,7 +6,7 @@
 
 - **S1 — คำสั่งงานปัจจุบันของผู้ใช้**: “Create a new documentation-only game project…” ระบุข้อยืนยัน ข้อเสนอ และข้อห้ามโดยตรง เป็นหลักฐานหลักสำหรับรายละเอียดที่ไม่ปรากฏในประวัติที่เครื่องมือคืนมา
 - **S2 — [กำหนดวิสัยทัศน์เกม](chatgpt-conversation://6ae74523-ad40-83ec-bda0-aed8fd29ebda)**: อ่านผ่าน read_thread โดยใช้ turnLimit 10 เครื่องมือคืนมา 5 Turn ล่าสุด ไม่มี cursor สำหรับอ่านต่อ จึงไม่ได้อ้างว่าอ่านบทสนทนาต้นฉบับครบทั้งหมด
-- **S3 — การเลือกโฟลเดอร์ปัจจุบัน**: ผู้ใช้เลือก `C:\Users\ADMIN\Documents\ChatGPT\NEWGAME+\zombie-survival-vision` ก่อนเริ่มเขียน
+- **S3 — การเลือกโฟลเดอร์**: ตอนเริ่มเขียน ผู้ใช้เลือก `C:\Users\ADMIN\Documents\ChatGPT\NEWGAME+\zombie-survival-vision` ต่อมาย้ายเอกสารมาไว้ที่ `C:\Users\ADMIN\Documents\Zombie-Cardgame` และเก็บเป็น Git repository (branch `main`) ที่แยกจากเกมเก่า (อัปเดต 2026-11-04)
 
 ### ดัชนีข้อความ S2 ที่ตรวจสอบได้
 
